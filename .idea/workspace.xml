@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a07c6222-930b-4d4a-8f92-3adbc542bb00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/3.4_dependency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/src/main/java/ru/netology/cartserver/CartServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/src/main/java/ru/netology/cartserver/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/src/main/java/ru/netology/cartserver/domain/PurchaseItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/src/main/java/ru/netology/cartserver/repository/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/src/main/java/ru/netology/cartserver/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-server/src/test/java/ru/netology/cartserver/CartServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-with-mocks/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-with-mocks/src/main/java/ru/netology/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-with-mocks/src/main/java/ru/netology/domain/PurchaseItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-with-mocks/src/main/java/ru/netology/manager/CartManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-with-mocks/src/main/java/ru/netology/repository/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart-with-mocks/src/test/java/ru/netology/manager/CartManagerTestNonEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/src/main/java/ru/netology/domain/PurchaseItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/src/main/java/ru/netology/manager/CartManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/src/test/java/ru/netology/manager/CartManagerTestNonEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/src/test/java/ru/netology/manager/CartManagerTestNonEmptyWithSetup.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rd888GYLwND94DZ3hGOEvOax1y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.netology.domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aslob\IdeaProjects\3.4_dependency" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a07c6222-930b-4d4a-8f92-3adbc542bb00" name="Default Changelist" comment="" />
+      <created>1619294449248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619294449248</updated>
+    </task>
+    <servers />
+  </component>
+</project>
